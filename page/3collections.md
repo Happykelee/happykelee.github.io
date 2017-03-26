@@ -11,7 +11,8 @@ type: page
 
 ## 工具
 
-<font color=#00ffff size=3>null</font>
+<font face="黑体">我是黑体字</font>
+
 * [box-shadow generator](http://www.cssmatic.com/box-shadow)
 
     生成 box-shadow 的工具。
