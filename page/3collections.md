@@ -9,7 +9,7 @@ type: page
 * content
 {:toc}
 
-## <font color=#6a6b6b>工具</font>
+## <font color= #6a6b6b >工具</font>
 
 * [box-shadow generator](http://www.cssmatic.com/box-shadow)
 
