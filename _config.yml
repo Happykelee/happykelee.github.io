@@ -7,7 +7,6 @@
 
 # Site settings
 title: Jety | Zhengting Cai
-brief-intro: Freshman in Biomedical Analysis
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://happykelee.github.io" # the base hostname & protocol for your site
 
