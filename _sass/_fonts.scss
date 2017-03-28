@@ -1,3 +1,5 @@
+/* fonts preparation*/
+
 @font-face {
   font-family: 'Alegreya';
   font-style: normal;
@@ -29,7 +31,4 @@
   src: local('Source Sans Pro'), local('SourceSansPro-Regular'),
        url('../fonts/source-sans-pro-regular.woff2') format('woff2'),
        url('../fonts/source-sans-pro-regular.woff') format('woff');
-}
-body {
-  font-family: 'Alegreya', 'Palatino Linotype', 'Book Antiqua', Palatino, 'Songti SC', '仿宋', 'FangSong', 'NSimSun', 'Microsoft YaHei', serif;
 }
