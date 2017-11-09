@@ -40,6 +40,7 @@ type: page
 
 ### 工作经历
 
+* 2017.07 ~        &nbsp;&nbsp;&nbsp;北京贝瑞和康生物技术股份有限公司 医学信息分析部&nbsp;&nbsp;&nbsp;数据分析员
 * 2016.11 ~ 2017.06&nbsp;&nbsp;&nbsp;北京贝瑞和康生物技术股份有限公司 医学信息分析部&nbsp;&nbsp;&nbsp;数据分析员(实习)
 * 2016.05 ~ 2016.11&nbsp;&nbsp;&nbsp;北京阅微基因技术有限公司 科技服务部&nbsp;&nbsp;&nbsp;数据分析员(实习)
 * 2014.07 ~ 2014.08&nbsp;&nbsp;&nbsp;北京阅微基因技术有限公司 应用部&nbsp;&nbsp;&nbsp;实验室助理(实习)
@@ -48,7 +49,7 @@ type: page
 
 ### 联系方式
 
-* GitHub：<a href="https://github.com/happykelee" title="GitHub" target="_blank">Zhengting Cai</a>
+* GitHub：<a href="https://github.com/happykelee" target="_blank">Zhengting Cai</a>
 * email：<mailto:jety@2858.com>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<mailto:13282027@bjtu.edu.cn>(学校)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<mailto:caizhengting765@berrygenomics.com>(公司)
@@ -58,11 +59,12 @@ type: page
 
 ### 参考模板
 
-* 整体框架：<a href="https://github.com/Gaohaoyang/gaohaoyang.github.io" title="GitHub" target="_blank">https://github.com/Gaohaoyang/gaohaoyang.github.io</a>
-* 字体使用：<a href="https://github.com/rbind/yihui" title="GitHub" target="_blank">https://github.com/rbind/yihui</a>
+* 整体框架：<a href="https://github.com/Gaohaoyang/gaohaoyang.github.io" target="_blank">https://github.com/Gaohaoyang/gaohaoyang.github.io</a>
+* 字体使用：<a href="https://github.com/rbind/yihui" target="_blank">https://github.com/rbind/yihui</a>
+* 背景特效：<a href="http://jinfang.life/posts/c00b4e03/" target="_blank">http://jinfang.life/posts/c00b4e03/</a>
 
 ### 更新日志
-*<small>会紧跟[Gaohaoyang](https://gaohaoyang.github.io)和[Yihui](https://yihui.name)实时模板变化</small>*
+*<small>会紧跟[Gaohaoyang](https://gaohaoyang.github.io)、[Yihui](https://yihui.name)和[jinfang](http://jinfang.life/)实时模板变化</small>*
 
 * 2017.4 ~ 2017.5&nbsp;&nbsp;&nbsp;根据上述模板构建个人博客
 
