@@ -23,6 +23,11 @@ permalink: /:year/:month/:day/:title/
 github_username:  Happykelee
 email: jety2858@163.com
 
+# background settings
+# add canvas-nest effect
+# see detail from https://github.com/hustcc/canvas-nest.js
+# canvas_nest: true
+
 description_footer: Zhengting Cai |
 # comments
 # two ways to comment, only choose one, and use your own short name
