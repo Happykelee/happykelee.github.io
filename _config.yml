@@ -23,7 +23,10 @@ permalink: /:year/:month/:day/:title/
 github_username:  Happykelee
 email: jety2858@163.com
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
 # background settings
 # add canvas-nest effect
 # see detail from https://github.com/hustcc/canvas-nest.js
