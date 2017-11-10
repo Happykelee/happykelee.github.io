@@ -69,3 +69,7 @@ type: page
 
 * 2017.4 ~ 2017.5&nbsp;&nbsp;&nbsp;根据上述模板构建个人博客
 
+## Comments
+
+{% include comments.html %}
+
