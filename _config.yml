@@ -45,6 +45,7 @@ baidu_tongji_id: c92206f45dd475826cc28d4ea9a56845
 
 # Build settings
 markdown: kramdown
+# encoding: utf-8
 
 kramdown:
   input: GFM
