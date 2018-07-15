@@ -14,11 +14,11 @@ url: "https://happykelee.github.io" # the base hostname & protocol for your site
 permalink: /:year/:month/:day/:title/
 
 # other links
-# twitter_username: 
-# facebook_username: 
-# weibo_username: 
-# zhihu_username: 
-# linkedIn_username: 
+# twitter_username:
+# facebook_username:
+# weibo_username:
+# zhihu_username:
+# linkedIn_username:
 # dribbble_username:
 github_username:  Happykelee
 email: jety2858@163.com
@@ -56,11 +56,11 @@ kramdown:
 
 # url
 category_dir: category/
-tag_dir: tag/
+tag_dir: tags/
 
 # excerpt
 excerpt_separator: "\n\n\n\n"
 
 # paginate
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 paginate: 6

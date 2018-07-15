@@ -40,8 +40,8 @@ type: page
 
 ### 工作经历
 
-* 2017.07 ~        &nbsp;&nbsp;&nbsp;北京贝瑞和康生物技术股份有限公司 医学信息分析部&nbsp;&nbsp;&nbsp;数据分析员
-* 2016.11 ~ 2017.06&nbsp;&nbsp;&nbsp;北京贝瑞和康生物技术股份有限公司 医学信息分析部&nbsp;&nbsp;&nbsp;数据分析员(实习)
+* 2018.03 ~        &nbsp;&nbsp;&nbsp;慧影医疗科技(北京)有限公司 创新部科研组&nbsp;&nbsp;&nbsp;科研支持
+* 2016.11 ~ 2018.02&nbsp;&nbsp;&nbsp;北京贝瑞和康生物技术股份有限公司 医学信息分析部&nbsp;&nbsp;&nbsp;数据分析员(实习&正式)
 * 2016.05 ~ 2016.11&nbsp;&nbsp;&nbsp;北京阅微基因技术有限公司 科技服务部&nbsp;&nbsp;&nbsp;数据分析员(实习)
 * 2014.07 ~ 2014.08&nbsp;&nbsp;&nbsp;北京阅微基因技术有限公司 应用部&nbsp;&nbsp;&nbsp;实验室助理(实习)
 
@@ -51,9 +51,9 @@ type: page
 
 * GitHub：<a href="https://github.com/happykelee" target="_blank">Zhengting Cai</a>
 * email：<mailto:jety@2858.com>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<mailto:caizhengting765@gmail.com>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<mailto:caizhengting2858@gmail.com>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<mailto:13282027@bjtu.edu.cn>(学校)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<mailto:caizhengting765@berrygenomics.com>(公司)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<mailto:caizhengting@huiyihuiying.com>(公司)
 
 
 ## 关于本站
@@ -72,4 +72,3 @@ type: page
 ## Comments
 
 {% include comments.html %}
-
