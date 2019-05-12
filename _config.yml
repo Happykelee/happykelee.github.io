@@ -62,5 +62,6 @@ tag_dir: tags/
 excerpt_separator: "\n\n\n\n"
 
 # paginate
-gens: [jekyll-paginate]
+# plugins: [jekyll-paginate]
+gems: [jekyll-paginate]
 paginate: 6
