@@ -41,7 +41,7 @@ disqus_shortname: https-happykelee-github-io
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
 baidu_tongji_id: c92206f45dd475826cc28d4ea9a56845
-# google_analytics_id: UA-72449510-4 # google 分析追踪id
+google_analytics_id: GTM-PQFL6M7 # google 分析追踪id
 
 # Build settings
 markdown: kramdown
